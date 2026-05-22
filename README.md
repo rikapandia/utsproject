@@ -4,8 +4,7 @@ Aplikasi pencatat keuangan sederhana berbasis React Native.
 
 ## Screenshot
 
- width="270" height="495" alt="Screenshot 2026-05-22 180858" src="https://github.com/user-attachments/assets/d8a138f6-8ad1-41e4-8183-7b456c64adf3" />enshot.png)
-
+ <img width="270" height="495" alt="Screenshot 2026-05-22 180858" src="https://github.com/user-attachments/assets/9c8729d8-2076-49bb-9b0a-c9e8be2ade64" />
 ## Cara Menjalankan
 
 1. Clone repo ini
